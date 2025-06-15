@@ -145,6 +145,9 @@
 			"node_modules",
 			"bower_components",
 			"jspm_packages",
+      ".cursor",
+			".roo",
+			".taskmaster",
 			"backups",
 			"tmp"
 		]

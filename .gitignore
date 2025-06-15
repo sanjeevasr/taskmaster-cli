@@ -85,6 +85,11 @@ typings
 # ternjs
 .tern-port
 
+# taskmaster ai
+dev-debug.log
+tasks.json
+tasks/
+
 # own
 backups
 docs
